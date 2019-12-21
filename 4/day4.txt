@@ -1,0 +1,4 @@
+input = 136818-685979
+current_num = 136818
+for x in current_num:
+    
